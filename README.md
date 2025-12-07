@@ -11,3 +11,9 @@ Am Projekt arbeiten
 # Projektidee
 
 Wir untersuchen die drastischen Peaks und Abfälle und was die möglichen Gründe dafür sind.
+
+## Bitte bechten
+Ordnerstruktur: Zur bessern Übersichtlichkeit haben wir
+    -   den Leistungsnachweis im Unterordner notebooks
+    -   die Rohdaten im Unterordner data
+    -   Bild im Unterordner resources
