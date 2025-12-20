@@ -1,5 +1,5 @@
-# Child-mortality
-Leistungsnachweis 2 ZHAW Informatik 
+# Child-Mortality
+Leistungsnachweis 2 ZHAW Informatik zum Thema Python anhand der Daten über die Kindersterblichkeit
 
 ## Team
 
