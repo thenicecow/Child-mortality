@@ -28,3 +28,5 @@ Ordnerstruktur: Zur bessern Übersichtlichkeit haben wir
     -   den Leistungsnachweis im Unterordner _notebooks_
     -   die Rohdaten im Unterordner _data_
     -   Bilder im Unterordner _resources_
+
+Das Notebook wurde unter Zuhilfenahme von KI erarbeitet (ChatGPT4.0/5.0)
